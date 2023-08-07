@@ -72,7 +72,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE](https://github.com/felipesilva15/pokedex-angular/blob/main/LICENCE) para detalhes.
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE](https://github.com/felipesilva15/pokedex-angular/blob/main/LICENSE) para detalhes.
 
 ---
 Documentado por [Felipe Silva](https://github.com/felipesilva15) 😊
