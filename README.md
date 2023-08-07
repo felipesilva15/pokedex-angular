@@ -1,27 +1,78 @@
-# PokedexAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
+<h1 align="center">
+  <img alt="Pokédex" src="https://raw.githubusercontent.com/felipesilva15/pokedex-angular/main/src/assets/logo.svg" />
+</h1>
 
-## Development server
+<div align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge" alt="badge-desenvolvimento"/>
+</div>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<div align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipesilva15/pokedex-angular.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipesilva15/pokedex-angular.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipesilva15/pokedex-angular.svg">
+  <a href="https://github.com/felipesilva15/pokedex-angular/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/felipesilva15/pokedex-angular.svg">
+  </a>
+  <a href="https://github.com/felipesilva15/pokedex-angular/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/felipesilva15/pokedex-angular.svg">
+  </a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/felipesilva15/pokedex-angular.svg">
+</div>
 
-## Code scaffolding
+## 📝 Descrição do projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este é um projeto com intuito de listar os 100 primeiros pokémons da pokédex utilizando a [PokéApi](https://pokeapi.co/).
 
-## Build
+Este projeto foi implantado no serviço do [GitHub Pages](https://pages.github.com/), e está disponível através do link <https://felipesilva15.github.io/pokedex-angular/>.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Rodando localmente
 
-## Running unit tests
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 📋 Pré-requisitos
 
-## Running end-to-end tests
+* Node.js
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### 🔧 Instalação
 
-## Further help
+1. Clone o projeto utilizando o comando abaixo
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+``` bash
+  git clone https://github.com/felipesilva15/pokedex-angular.git
+```
+
+2. Acesse a pasta dos fonts deste projeto
+
+```bash
+  cd pokedex-angular
+```
+
+3. Instale as dependências do projeto
+
+```bash
+  npm install
+```
+
+4. Inicie a aplicação
+
+```bash
+  ng serve --open
+```
+
+5. Acesse a aplicação (Geralmente é inicializada no endereço <http://localhost:4200>).
+
+## 🛠️ Construído com
+
+* [Angular (TypeScript)](https://angular.io/) - Framework de TypeScript para Front-end
+
+## ✒️ Autores
+
+* **Felipe Silva** - *Desenvolvedor e mentor* - [felipesilva15](https://github.com/felipesilva15)
+
+## 📄 Licença
+
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE](https://github.com/felipesilva15/pokedex-angular/blob/main/LICENCE) para detalhes.
+
+---
+Documentado por [Felipe Silva](https://github.com/felipesilva15) 😊
